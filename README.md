@@ -14,7 +14,7 @@ Kelly, K., Scherer, M., Braun, M.M. et al. EpiCHAOS: a metric to quantify epigen
 3. The mean of all pairwise indices is computed per cluster as a raw heterogeneity score
 4. Raw heterogeneity scores are adjusted for differences in sparsity between groups by fitting a linear regression model
 5. Scores are normalised to a range of 0-1 and negated so that a higher score indicates higher cell-to-cell heterogeneity
-   <img width="778" alt="epiCHAOS_schematic" src="https://github.com/CompEpigen/epiCHAOS/assets/61455651/0fdc19e5-7b50-4475-98b0-4ece1f3762a0">
+<img width="1427" height="269" alt="image" src="https://github.com/user-attachments/assets/0a1fc6f7-47eb-4b87-99e7-031654b2ad53" />
 
 #### Install the epiCHAOS R package
 ```
